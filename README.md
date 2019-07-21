@@ -1,6 +1,9 @@
 # BreadShield
 The Arduino shield for breadboards
 
+![A breadshield](images/cover_IMG_0325-clean_small.png "A breadshield")
+
+
 ## Organization of files
 * KiCAD: the KiCAD files of the PCB
 * demo: programs and documentations for demos
