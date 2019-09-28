@@ -57,5 +57,5 @@ A copy of this license is in the file `license.md`.
 # Where to buy
 * [Tindie, by the author himself](https://www.tindie.com/products/edit/breadshield/) 
 * [ARMWorks, 1 or 3-pack](https://andahammer.com/index.php?route=product/product&path=68&product_id=299)
-* [Mouser, local shipping rate](https://www.mouser.com/Search/Refine?FS=TRUE&N=4246651945+4292906361)
-* [Crowd Supply (lowest shipping cost for non-US buyer)](https://www.crowdsupply.com/loser/breadshield)
+* [Mouser](https://www.mouser.com/Search/Refine?FS=TRUE&N=4246651945+4292906361)
+* [Crowd Supply](https://www.crowdsupply.com/loser/breadshield)
